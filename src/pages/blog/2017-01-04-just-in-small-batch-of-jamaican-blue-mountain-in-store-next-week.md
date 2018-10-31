@@ -1,10 +1,14 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: Qué son los chackas?
+date: 2018-10-31T15:04:10.000Z
+image: /img/post_3.png
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Lorem ipsum volutpat arcu. Sollicitudin iaculis, a Nam lacus vitae quam.
+  Ultrices elit. Id volutpat, amet ligula. Malesuada mauris. Consectetur
+  lobortis vitae quis, ac, fermentum accumsan ullamcorper. Vitae erat. At lectus
+  auctor sapien ipsum non Mauris ligula. Dolor felis aptent tempor eu a vehicula
+  egestas, Suspendisse aptent himenaeos.
 tags:
   - jamaica
   - green beans
