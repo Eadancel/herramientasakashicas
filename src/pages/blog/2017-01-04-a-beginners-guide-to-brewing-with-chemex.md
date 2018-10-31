@@ -1,8 +1,22 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: Curso de Reiki
+date: 2018-10-31T15:04:00.000Z
+image: /img/post_2.png
+description: >-
+  Lorem ipsum volutpat arcu. Sollicitudin iaculis, a Nam lacus vitae quam.
+  Ultrices elit. Id volutpat, amet ligula. Malesuada mauris. Consectetur
+  lobortis vitae quis, ac, fermentum accumsan ullamcorper. Vitae erat. At lectus
+  auctor sapien ipsum non Mauris ligula. Dolor felis aptent tempor eu a vehicula
+  egestas, Suspendisse aptent himenaeos.Lorem ipsum volutpat arcu. Sollicitudin
+  iaculis, a Nam lacus vitae quam. Ultrices elit. Id volutpat, amet ligula.
+  Malesuada mauris. Consectetur lobortis vitae quis, ac, fermentum accumsan
+  ullamcorper. Vitae erat. At lectus auctor sapien ipsum non Mauris ligula.
+  Dolor felis aptent tempor eu a vehicula egestas, Suspendisse aptent himenaeos.
+  Lorem ipsum volutpat arcu. Sollicitudin iaculis, a Nam lacus vitae quam.
+  Ultrices elit. Id volutpat, amet ligula. Malesuada mauris. Consectetur
+  lobortis vitae quis, ac, fermentum accumsan ullamcorper. Vitae erat. At lectus
+  auctor sapien ipsum non Mauris ligula.
 tags:
   - brewing
   - chemex
