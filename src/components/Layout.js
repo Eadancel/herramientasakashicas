@@ -10,8 +10,9 @@ import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Herramientas Akashicas - Matías Nuñez" />
-    <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet" />
+    <Helmet title="Herramientas Akashicas - Matías Nuñez">
+      <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet" />
+    </Helmet>
     <div  style={{ backgroundImage: 'url(/img/bkg_init.png)'}}>
       <Socialbar />
       <TopBar />
